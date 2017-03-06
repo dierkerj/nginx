@@ -1,0 +1,2 @@
+# nginx
+Vagrant nginx website 
